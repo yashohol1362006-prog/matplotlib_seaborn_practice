@@ -60,5 +60,5 @@ The goal of this notebook is to build a strong understanding of different visual
 * Plotly
 
 ## File
-
+ 
 `data_visualization_practice.ipynb`
