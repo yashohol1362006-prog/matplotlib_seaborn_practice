@@ -12,7 +12,7 @@ This repository contains my practice notebook for learning and practicing **data
 * Grid lines
 * Subplots
 * Scatter plots
-* Bar charts
+* Bar charts 
 * Horizontal bar charts
 * Histograms
 * Box plots
