@@ -4,7 +4,7 @@ This repository contains my practice notebook for learning and practicing **data
 
 ## Topics Covered
 
-### Matplotlib
+### Matplotlib 
 
 * Basic line plots
 * Markers and line styles
