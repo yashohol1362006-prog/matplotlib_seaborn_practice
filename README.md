@@ -22,7 +22,7 @@ This repository contains my practice notebook for learning and practicing **data
 * Distribution plots
 * Histograms
 * Joint plots
-* Pair plots
+* Pair plots 
 * Count plots
 * Bar plots
 * Box plots
