@@ -6,7 +6,7 @@ This repository contains my practice notebook for learning and practicing **data
 
 ### Matplotlib 
 
-* Basic line plots
+* Basic line plots 
 * Markers and line styles 
 * Titles and axis labels
 * Grid lines
